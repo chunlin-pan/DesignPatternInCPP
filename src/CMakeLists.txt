@@ -1,1 +1,2 @@
 add_subdirectory(SimpleFactory)
+add_subdirectory(Strategy)
